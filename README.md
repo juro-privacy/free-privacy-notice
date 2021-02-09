@@ -9,6 +9,9 @@ Now, you can use the design patterns created for the Juro privacy notice on your
 
 "This privacy notice was built based on an open source design from https://juro.com. Get these patterns free at github.com/rmabey/juro-privacy"
 
-Please note:
+The privacy design patterns offered include:
 
-Users of the privacy design patters expressly agree that they do not consider the patterns legal advice in any way. The wording included was created for Juro and you must use words in the notice that reflect your own privacy requirements. The Juro privacy notice uses icons from streamlineicons.com - these icons are not open source and can be used only for this project.
+- A 'privacy summary' modal
+- The full layered privacy notice
+
+Please note: Users of the privacy design patters expressly agree that they do not consider the patterns legal advice in any way. The wording included was created for Juro and you must use words in the notice that reflect your own privacy requirements. The Juro privacy notice uses icons from streamlineicons.com - these icons are not open source and can be used only for this project.
