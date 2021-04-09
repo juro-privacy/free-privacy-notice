@@ -1,0 +1,50 @@
+/* Base styles - modifiers classes for some parts of modal and privacy. */
+
+.bs--pt-10 {
+  padding-top: 10px;
+}
+
+.bs--mt-10 {
+  margin-top: 10px
+}
+
+.bs--mt-15 {
+  margin-top: 15px
+}
+
+.bs--no-mb {
+  margin-bottom: 0!important
+}
+
+.bs--mb-10 {
+  margin-bottom: 10px
+}
+
+.bs--hidden {
+  display: none!important
+}
+
+.bs--link {
+  text-decoration: none;
+  color: #52a9e8
+}
+
+.bs--link:hover {
+  color: #1c85d2
+}
+
+.bs--bold {
+  font-weight: bold
+}
+
+.bs--fs-inherit {
+  font-size: inherit !important
+}
+
+.bs--hidden {
+  display: none;
+}
+
+.bs--visible {
+  display: block !important;
+}

@@ -1,0 +1,124 @@
+/* Styles for privacy (not for whole page, but only for privacy layout). */
+
+/* Columns  */
+
+.columns {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 1200px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0 auto 20px;
+  padding: 10px;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box
+}
+
+.columns__left {
+  max-width: 240px;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 22.9%;
+  -ms-flex: 0 0 22.9%;
+  flex: 0 0 22.9%
+}
+
+.columns__main {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1 1;
+  padding: 0 20px;
+  background: #fff;
+  margin-left: 20px;
+  border: 1px solid #dbdde7;
+  -webkit-border-radius: 3px;
+  border-radius: 3px
+}
+
+/* Sidebar */
+
+.sidebar__item {
+  margin: 15px 0
+}
+
+.sidebar__item:first-child {
+  margin-top: 0
+}
+
+.sidebar__link {
+  padding: 15px 0;
+  font-size: 14px;
+  line-height: 18px;
+  text-decoration: none;
+  color: #9ba0b6
+}
+
+.sidebar__link:hover {
+  color: #365373
+}
+
+.sidebar__link.highlighted {
+  color: #002651
+}
+
+/* Highlighted box */
+
+.highlight-box {
+  background: #d0e9fb;
+  padding: 15px
+}
+
+.highlight-box__title {
+  font-size: 12px;
+  line-height: 18px;
+  color: #002651
+}
+
+.highlight-box>* {
+  margin-bottom: 15px
+}
+
+.data-collect__item:last-child, .data-collect__item>div>p:last-child, .highlight-box>:last-child {
+  margin-bottom: 0
+}
+
+/* Privacy table */
+
+.privacy__table {
+  text-align: left;
+  font-size: 12px;
+  line-height: 18px
+}
+
+.privacy__table thead {
+  background: #fbfbfc;
+  color: #002651
+}
+
+.privacy__table td, .privacy__table th {
+  padding: 10px 10px 15px
+}
+
+.privacy__table td {
+  color: #495355;
+  border-bottom: 1px solid #dbdde7
+}
+
+.privacy__table td:first-child {
+  white-space: nowrap
+}
+
+.privacy__table td a {
+  color: #495355;
+  font-size: 10px;
+  line-height: 18px
+}
+
+.privacy__table ul {
+  list-style: inside disc;
+  white-space: nowrap
+}
