@@ -1,9 +1,7 @@
 # juro-privacy
-Open source privacy notice design patterns.
-
 The Juro Privacy Notice is an open source project by https://juro.com and https://stefaniapassera.com/. 
 
-In 2018, Juro and Stefania Passera set out to build <b>a privacy notice that people could actually read</b>. This led to a 13,000% increase in views of the notice. The policy is now one of the most commonly-cited policies in the world and is frequently used as an example of clean information design. 
+In 2018, we set out to build <b>a privacy notice that people could actually read</b>. This led to a 13,000% increase in views of the notice. The policy is now one of the most commonly-cited policies in the world and is frequently used as an example of clean information design. 
 
 Check it out here: https://juro.com/#privacy-popup
 
@@ -13,6 +11,8 @@ The privacy design patterns offered include:
 
 - A 'privacy summary' modal
 - The full layered privacy notice
+
+See the technical readme file for developer instructions on how you can deploy these privacy design patterns in your own privacy notice.
 
 Important: 
 
