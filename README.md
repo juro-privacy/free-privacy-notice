@@ -17,8 +17,12 @@ The privacy design patterns offered include:
 
 See the technical readme file for developer instructions on how you can deploy these privacy design patterns in your own privacy notice.
 
-Important: 
+IMPORTANT LEGAL STUFF (hence the capital letters...)
 
+Subject to the below Juro Online Limited (known as Juro) and Stefania Passera grant you a worldwide, royalty-free, non-exclusive right to use the design patterns in the privacy notice and the code base in this repository. 
+
+- You MUST customise the text of the agreement to cover the needs of your business. There is no such thing as a one-size-fits-all privacy notice.
+- You may adjust the design of the privacy notice to suit your brand but you may not resell the privacy notice.
 - Users of the privacy design patterns expressly agree that they <b>do not consider the patterns legal advice in any way</b>. 
-- The wording of the legal text included was created for Juro and you <b>must customise</b> the design patterns and wording to your own privacy requirements. 
 - The Juro privacy notice uses icons from streamlineicons.com - these icons are <b>not</b> open source and can be used <b>only for this project</b>.
+- Juro Online Limited and Stefania Passera expressly exclude any liability arising from the use of the privacy design patterns or the privacy notice you build. 
