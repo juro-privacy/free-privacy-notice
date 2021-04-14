@@ -8,7 +8,7 @@ Check it out here: https://juro.com/#privacy-popup
 
 <img src="https://info.juro.com/hubfs/juro-privacy-policy-template-thumb-v2.png" alt="Juro privacy policy" width="644" height="615" />
 
-Now, you can use the design patterns created for the Juro privacy notice on your own website privacy notice for free! <b>You just need to include a link back to our site with this wording and links: "This privacy notice is based on an open-sourced design, powered by <a href="https://juro.com" target="_blank">Juro</a>&nbsp;- get your own <a href="https://info.juro.com/privacy-policy-template" target="_blank">free privacy policy template</a></b>"
+Now, you can use the design patterns created for the Juro privacy notice on your own website privacy notice for free! <b>You just need to include a link back to our site with this wording and links: "This privacy notice is based on an open-sourced design from <a href="https://juro.com" target="_blank">Juro</a>&nbsp; and <a href="https://stefaniapassera.com" target="_blank">Stefania Passera</a>&nbsp; get your own <a href="https://info.juro.com/privacy-policy-template" target="_blank">free privacy policy template</a></b>"
 
 The privacy design patterns offered include:
 
