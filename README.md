@@ -1,4 +1,4 @@
-# juro-privacy
+# Design-first privacy notice template
 
 The Juro Privacy Notice is an open source project by https://juro.com and https://stefaniapassera.com/. 
 
