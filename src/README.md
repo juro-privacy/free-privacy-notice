@@ -12,7 +12,7 @@
 Simply put the content of modal.html on your pages where you want the modal to appear. Include the content of modal.js in your script file and content of modal.css to your styles file. Resources from the *res* folder also must be presented on all the pages where modal appears. Please note that having **#privacy-popup** in the URL will open popup automatically after opening the page (if you include modal.js, of course).
 
 Besides this please
-- replace **/policy.html** with the link to your privacy page.
+- replace **/privacy.html** with the link to your privacy page.
 - adjust the text of the modal so it reflects your company.
 
 ## Privacy
