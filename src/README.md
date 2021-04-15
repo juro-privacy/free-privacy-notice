@@ -22,3 +22,5 @@ Privacy is the full privacy page (not the modal). It's a piece of layout that co
 ## Demo
 
 The demo page contains both privacy and modal layout as well as the simplest page structure. To see a proper demo page you need to open with a local server since because of the browser's security settings you won't see SVG icons if sprite.svg is stored locally. But with no local server, you will see everything else properly except the icons. To open the popup simply add **#privacy-popup** to the URL.
+
+Note the separate README.md file for information on how you can use the policy, including the license.
