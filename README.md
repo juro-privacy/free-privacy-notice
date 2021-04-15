@@ -17,7 +17,7 @@ The privacy design patterns offered include:
 
 See the technical readme file for developer instructions on how you can deploy these privacy design patterns in your own privacy notice.
 
-<b>IMPORTANT LEGAL STUFF</a> (hence the scary capital letters...)
+<b>IMPORTANT LEGAL STUFF</b> (hence the scary capital letters...)
 
 Subject to the below Juro Online Limited (known as Juro) and Stefania Passera grant you a worldwide, royalty-free, non-exclusive right to use the design patterns in the privacy notice and the code base in this repository. 
 
