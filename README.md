@@ -17,7 +17,7 @@ The privacy design patterns offered include:
 
 See the technical readme file for developer instructions on how you can deploy these privacy design patterns in your own privacy notice.
 
-If you build your website with Webflow, <a href="https://bearer.sh" target="_blank">Bearer</a>&nbsp;has adapted these design patterns into a <a href="https://webflow.com/website/privacy-policy-template-bearer" target="_blank">free Webflow template</a>&nbsp;you can clone and customise.   
+If you build your website with Webflow, <a href="https://bearer.sh" target="_blank">Bearer</a>&nbsp;has adapted these design patterns into a <a href="https://webflow.com/website/privacy-policy-template-bearer" target="_blank">free Webflow template</a>&nbsp;you can clone and customise. Note you must still include in the Webflow template the credit above.  
 
 <b>IMPORTANT LEGAL STUFF</b> (hence the scary capital letters...)
 
